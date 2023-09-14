@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_ASPNETCore.csproj": {}
+    "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_Funcionarios\\WebApi_ASPNETCore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_ASPNETCore.csproj": {
+    "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_Funcionarios\\WebApi_ASPNETCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_ASPNETCore.csproj",
+        "projectUniqueName": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_Funcionarios\\WebApi_ASPNETCore.csproj",
         "projectName": "WebApi_ASPNETCore",
-        "projectPath": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_ASPNETCore.csproj",
+        "projectPath": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_Funcionarios\\WebApi_ASPNETCore.csproj",
         "packagesPath": "C:\\Users\\Guilherme Moitinho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\obj\\",
+        "outputPath": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_Funcionarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

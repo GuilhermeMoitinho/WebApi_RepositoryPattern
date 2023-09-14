@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMJp6KqU+IKno2Q+h86xuBaSGVHtYBKnVJDabgIblouQ0cyZ5mWSv3xz2rYS4SGslrTKkPnB1zoPfKGnmpbIFA==",
+  "dgSpecHash": "7VOnxLv32cLi5DDRM+TuIGs4G7JETmArkG7XhOaZd220Lu9oYMmzK1UkPF7F8Igg9Bp6dCnSUnO6QCptQurq3g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_ASPNETCore.csproj",
+  "projectFilePath": "c:\\Users\\Guilherme Moitinho\\Desktop\\Projeto_Blibioteca\\WebApi_ASPNETCore\\WebApi_Funcionarios\\WebApi_ASPNETCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Guilherme Moitinho\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Guilherme Moitinho\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
